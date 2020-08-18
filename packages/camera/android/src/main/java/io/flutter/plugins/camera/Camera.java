@@ -6,6 +6,7 @@ import static io.flutter.plugins.camera.CameraUtils.computeBestPreviewSize;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Context;
+import android.graphics.Bitmap;
 import android.graphics.ImageFormat;
 import android.graphics.SurfaceTexture;
 import android.hardware.camera2.CameraAccessException;
